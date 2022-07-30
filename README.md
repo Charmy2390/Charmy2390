@@ -2,9 +2,17 @@
 Hi there, I’m [Kritika Kapoor](https://www.linkedin.com/in/kritika-kapoor-84a37653/) 👋
 
 I am a Tech Recruiter from Dublin, Ireland.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+### Overview
+- My favourites
+- Blogs
+- Facebook Groups
+- Audio
+- Video
+- Books
+- Lists
+- Extensions & Tools General
+- Extensions & Tools Recruitment
 - 📫 How to reach me ...
 
 <!---
