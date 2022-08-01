@@ -1,7 +1,7 @@
 # The Opportunist Recruiter
 Hi there, I’m [Kritika Kapoor](https://www.linkedin.com/in/kritika-kapoor-84a37653/) 👋
 
-I am a Tech Recruiter from Dublin, Ireland.
+I am a Tech Recruiter from Dublin, Ireland. I love building the technical team for my businesses. In return, they deliver great products and services to customers. 
 
 ### Overview
 - My favourites
